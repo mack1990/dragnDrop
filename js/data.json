@@ -1,0 +1,19 @@
+[{
+    "hotels": {
+        "1": { "name": "Taj Residency", "description": " Sample description of Taj" },
+        "2": { "name": "Gulf Zone", "description": " Sample description of Gulf Zone" },
+        "3": { "name": "Silver Resort", "description": " Sample description of Silver Resort" },
+        "4": { "name": "Burj Al Arab", "description": " Sample description of Burj Al Arab " },
+        "5": { "name": "Raffles Dubai", "description": " Sample description of Raffles Dubai" },
+        "6": { "name": "Dubai Heights", "description": " Sample description of Dubai Heights" },
+        "7": { "name": "Classic Tower", "description": " Sample description of Classic Tower" },
+        "8": { "name": "Royal", "description": " Sample description of Royal" },
+        "9": { "name": "Al Arab Residency", "description": " Sample description of Al Arab Residency" }
+    },
+    "location": {
+        "1": { "name": "Dubai" },
+        "2": { "name": "Sharjah" },
+        "3": { "name": "Abu Dhabi" },
+        "4": { "name": "Mumbai" }
+    }
+}]
